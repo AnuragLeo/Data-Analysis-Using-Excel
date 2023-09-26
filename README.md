@@ -1,5 +1,7 @@
 # Data-Analysis-Using-Excel
 
+*Note* - The excel file is named "Vrinda Store Data Analysis.xlxs"
+
 Project Title: Vrinda Store Data Analysis
 
 Project Description:
