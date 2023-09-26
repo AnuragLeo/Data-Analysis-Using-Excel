@@ -1,6 +1,6 @@
 # Data-Analysis-Using-Excel
 
-*Note* - The excel file is named "Vrinda Store Data Analysis.xlxs"
+*Note - The excel file is named "Vrinda Store Data Analysis.xlsx" which can be at the above section. Kindly download the raw file as the file is large.*
 
 Project Title: Vrinda Store Data Analysis
 
